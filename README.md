@@ -3,13 +3,22 @@ This Power BI project provides a deep dive into the market capitalization trends
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Market Cap Overview – Displays real-time and historical market capitalization of each company.</b> 
-- <b>Yearly Company Metrics – Tracks annual changes in valuation, comparing growth and decline trends.</b>
-- <b>% Market Cap Change – Visualizes percentage shifts in market capitalization over time.</b>
-- <b>Stacked Expansion Growth – Demonstrates the cumulative expansion of these companies, showcasing their impact on the overall market.</b>
-- <b>Company Comparisons – Side-by-side comparisons of financial performance and valuation changes.</b>
+- **Market Cap Overview: Real-Time and Historical Insights**  
+This feature displays real-time and historical market capitalization for each company, providing a comprehensive view of their valuation over time for quick reference.
+
+- **Yearly Company Metrics: Valuation Trends Tracking**  
+Track annual changes in company valuation, comparing growth and decline trends across years to identify long-term performance patterns and market dynamics.
+
+- **% Market Cap Change: Percentage Shifts Visualization**  
+Visualize percentage shifts in market capitalization over time, highlighting significant increases or decreases to understand volatility and market trends effectively.
+
+- **Stacked Expansion Growth: Cumulative Market Impact**  
+A stacked visualization demonstrates the cumulative expansion of companies, showcasing their collective impact on the overall market and illustrating growth contributions.
+
+- **Company Comparisons: Side-by-Side Financial Analysis**  
+This feature enables side-by-side comparisons of financial performance and valuation changes across companies, facilitating benchmarking and competitive analysis.
 
 
 <h2>Tech Stack </h2>
